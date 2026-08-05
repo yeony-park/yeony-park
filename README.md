@@ -87,8 +87,8 @@ I spent **2.7 years developing bioinformatics platforms**, working at the inters
 
 <!--START_SECTION:waka-->
 
-```text
-Waiting for the first WakaTime update...
+```txt
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
