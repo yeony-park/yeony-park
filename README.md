@@ -58,7 +58,7 @@ I spent **2.7 years developing bioinformatics platforms**, working at the inters
 
 ## 💼 Experience
 
-**AI Engineering**
+**SK Networks AI Bootcamp | 25th Cohort**
 
 - Building LLM- and RAG-based applications, data analysis agents, and recommendation systems
 - Designing reproducible data pipelines with explicit validation, provenance, and failure handling
@@ -78,11 +78,16 @@ I spent **2.7 years developing bioinformatics platforms**, working at the inters
 
 ## 📜 Certifications
 
+<details>
+<summary><strong>View certifications</strong></summary>
+
 - **Engineer Big Data Analysis** (2025)
 - **SQL Developer — SQLD** (2025)
 - **Data Architecture Semi-Professional — DAsP** (2025)
 - **Advanced Data Analytics Semi-Professional — ADsP** (2024)
 - **Programmers Certified Coding Professional — PCCP, Level 2** (2026)
+
+</details>
 
 ## 📊 This Week I Spent My Time On
 
