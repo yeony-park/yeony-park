@@ -83,6 +83,16 @@ I spent **2.7 years developing bioinformatics platforms**, working at the inters
 - **Advanced Data Analytics Semi-Professional — ADsP** (2024)
 - **Programmers Certified Coding Professional — PCCP, Level 2** (2026)
 
+## 📊 This Week I Spent My Time On
+
+<!--START_SECTION:waka-->
+
+```text
+Waiting for the first WakaTime update...
+```
+
+<!--END_SECTION:waka-->
+
 ## 🧑‍💻 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-bbling408%40yonsei.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bbling408@yonsei.ac.kr)
