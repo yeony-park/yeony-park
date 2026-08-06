@@ -1,10 +1,6 @@
-# Hi, I'm Yeonjeong Park 👋
+# 🙌 About Me
 
-### AI Engineer building reliable systems from data to production
-
-## 🙌 About Me
-
-Hi, I'm **Yeonjeong Park**, an AI engineer committed to the reliability of the systems I build.
+Hi, I'm **Yeonjeong Park**, an AI engineer building reliable systems from data to production.
 
 I spent **2.7 years developing bioinformatics platforms**, working at the intersection of scientific data, software, and reproducible workflows. Today, I build AI applications with **LLMs, RAG, data pipelines, and backend systems**, turning experimental ideas into testable and maintainable products.
 
@@ -12,6 +8,37 @@ I spent **2.7 years developing bioinformatics platforms**, working at the inters
 - 🔬 Former Bioinformatics Platform Developer
 - 🤖 Currently focused on AI agents, RAG, data engineering, and reliable AI systems
 - 🌱 Interested in evaluation, traceability, and production-minded AI development
+
+## 📊 This Week I Spent My Time On
+
+<!--START_SECTION:waka_languages-->
+
+```txt
+Markdown                 12 hrs 37 mins    ██████████████░░░░░░░░░░░  56.45 %
+Python                   2 hrs 55 mins     ███░░░░░░░░░░░░░░░░░░░░░░  13.10 %
+Text                     2 hrs 21 mins     ███░░░░░░░░░░░░░░░░░░░░░░  10.53 %
+TypeScript               2 hrs 7 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   9.52 %
+JavaScript               1 hr 9 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.20 %
+```
+
+<!--END_SECTION:waka_languages-->
+
+<details>
+<summary><strong>View top projects this week</strong></summary>
+
+<!--START_SECTION:waka_projects-->
+
+```txt
+research-skill           6 hrs 45 mins     ████████░░░░░░░░░░░░░░░░░  30.19 %
+Exit404                  5 hrs 22 mins     ██████░░░░░░░░░░░░░░░░░░░  24.00 %
+gitropolis-ai            3 hrs 5 mins      ███░░░░░░░░░░░░░░░░░░░░░░  13.85 %
+PickCardU                2 hrs 51 mins     ███░░░░░░░░░░░░░░░░░░░░░░  12.80 %
+HotSummer                59 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   4.43 %
+```
+
+<!--END_SECTION:waka_projects-->
+
+</details>
 
 ## 🛠️ Tech Stack
 
@@ -58,17 +85,19 @@ I spent **2.7 years developing bioinformatics platforms**, working at the inters
 
 ## 💼 Experience
 
-**SK Networks AI Bootcamp | 25th Cohort**
+**SK Networks AI Bootcamp | 25th Cohort | 2025.12–2026.06 (6 months)**
 
 - Building LLM- and RAG-based applications, data analysis agents, and recommendation systems
 - Designing reproducible data pipelines with explicit validation, provenance, and failure handling
 - Developing full-stack prototypes that connect AI workflows with practical user experiences
 
-**Bioinformatics Platform Development | 2.7 years**
+**Bioinformatics Platform Development | 2023.05–2025.11 (2.7 years)**
 
 - Developed and maintained data-centric platforms for scientific workflows
 - Worked with domain experts to translate research requirements into dependable software
 - Built a strong foundation in data integrity, reproducibility, and operational stability
+
+**Bio Data Engineer Intern | 2020.12–2021.03**
 
 ## 🏆 Awards
 
@@ -88,20 +117,6 @@ I spent **2.7 years developing bioinformatics platforms**, working at the inters
 - **Programmers Certified Coding Professional — PCCP, Level 2** (2026)
 
 </details>
-
-## 📊 This Week I Spent My Time On
-
-<!--START_SECTION:waka-->
-
-```txt
-Markdown     12 hrs 37 mins  ██████████████░░░░░░░░░░░   56.45 %
-Python       2 hrs 55 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
-Text         2 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
-TypeScript   2 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
-JavaScript   1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-```
-
-<!--END_SECTION:waka-->
 
 ## 🧑‍💻 Contact Me
 
