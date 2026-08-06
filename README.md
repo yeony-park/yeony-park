@@ -101,9 +101,18 @@ HotSummer                59 mins           █░░░░░░░░░░░�
 
 ## 🏆 Awards
 
+<details>
+<summary><strong>View awards and competitions</strong></summary>
+
 🥈 **2nd Place** | **2026 1st Upstage X BDAI Harness Engineering Skillthon**
 
 [HeatGuard](https://github.com/yeony-park/HeatGuard) — A reproducible data analysis skill for identifying regions that need priority heatwave-response review.
+
+🏁 **Finalist — In Progress** | **2026 제1회 KODATA X BDAI AI·데이터 활용 금융 아이디어 공모전**
+
+[Official competition page](https://bdai.co.kr/lectures/contest/9/?section=notice&tab=overview)
+
+</details>
 
 ## 📜 Certifications
 
