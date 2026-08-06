@@ -94,7 +94,11 @@ I spent **2.7 years developing bioinformatics platforms**, working at the inters
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     12 hrs 37 mins  ██████████████░░░░░░░░░░░   56.45 %
+Python       2 hrs 55 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
+Text         2 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+TypeScript   2 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+JavaScript   1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
 ```
 
 <!--END_SECTION:waka-->
