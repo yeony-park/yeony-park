@@ -14,11 +14,11 @@ I spent **2.7 years developing bioinformatics platforms**, working at the inters
 <!--START_SECTION:waka_languages-->
 
 ```txt
-Markdown                 10 hrs 4 mins     ████████████░░░░░░░░░░░░░  47.07 %
-TypeScript               3 hrs             ████░░░░░░░░░░░░░░░░░░░░░  14.02 %
-Other                    1 hr 37 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   7.57 %
-YAML                     1 hr 36 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   7.50 %
-HTML                     1 hr 19 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   6.21 %
+Markdown                 13 hrs 51 mins    █████████████░░░░░░░░░░░░  50.28 %
+TypeScript               3 hrs 6 mins      ███░░░░░░░░░░░░░░░░░░░░░░  11.28 %
+Other                    2 hrs             ██░░░░░░░░░░░░░░░░░░░░░░░   7.27 %
+YAML                     1 hr 45 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   6.40 %
+JavaScript               1 hr 31 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   5.55 %
 ```
 
 <!--END_SECTION:waka_languages-->
@@ -29,11 +29,11 @@ HTML                     1 hr 19 mins      ██░░░░░░░░░░�
 <!--START_SECTION:waka_projects-->
 
 ```txt
-finance-ai-challenge-202 9 hrs 4 mins      ███████████░░░░░░░░░░░░░░  42.41 %
-Exit404                  5 hrs 56 mins     ███████░░░░░░░░░░░░░░░░░░  27.77 %
-gitropolis-ai            1 hr 37 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   7.58 %
-Unknown Project          57 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   4.47 %
-서버 코드 backup         42 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   3.27 %
+finance-ai-challenge-202 9 hrs 44 mins     █████████░░░░░░░░░░░░░░░░  35.34 %
+Exit404                  6 hrs 13 mins     ██████░░░░░░░░░░░░░░░░░░░  22.62 %
+Unknown Project          2 hrs 44 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   9.98 %
+gitropolis-ai            1 hr 48 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   6.59 %
+bookface                 1 hr 34 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   5.73 %
 ```
 
 <!--END_SECTION:waka_projects-->
