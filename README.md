@@ -14,11 +14,11 @@ I spent **2.7 years developing bioinformatics platforms**, working at the inters
 <!--START_SECTION:waka_languages-->
 
 ```txt
-Markdown                 12 hrs 46 mins    ████████████░░░░░░░░░░░░░  48.59 %
-Python                   3 hrs 35 mins     ███░░░░░░░░░░░░░░░░░░░░░░  13.69 %
-TypeScript               3 hrs 4 mins      ███░░░░░░░░░░░░░░░░░░░░░░  11.68 %
-JSON                     1 hr 49 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   6.92 %
-JavaScript               1 hr 33 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   5.90 %
+Markdown                 12 hrs 28 mins    █████████████░░░░░░░░░░░░  52.51 %
+Python                   3 hrs 38 mins     ████░░░░░░░░░░░░░░░░░░░░░  15.32 %
+TypeScript               2 hrs 13 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   9.39 %
+JSON                     1 hr 45 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   7.38 %
+JavaScript               1 hr 15 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   5.33 %
 ```
 
 <!--END_SECTION:waka_languages-->
@@ -29,11 +29,11 @@ JavaScript               1 hr 33 mins      █░░░░░░░░░░░�
 <!--START_SECTION:waka_projects-->
 
 ```txt
-research-skill           5 hrs 45 mins     █████░░░░░░░░░░░░░░░░░░░░  21.92 %
-finance-ai-challenge-202 4 hrs 48 mins     █████░░░░░░░░░░░░░░░░░░░░  18.27 %
-bookface                 4 hrs 41 mins     ████░░░░░░░░░░░░░░░░░░░░░  17.86 %
-Unknown Project          2 hrs 30 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   9.56 %
-gitropolis-ai            2 hrs             ██░░░░░░░░░░░░░░░░░░░░░░░   7.65 %
+research-skill           5 hrs 45 mins     ██████░░░░░░░░░░░░░░░░░░░  24.24 %
+bookface                 5 hrs 39 mins     ██████░░░░░░░░░░░░░░░░░░░  23.79 %
+finance-ai-challenge-202 2 hrs 40 mins     ███░░░░░░░░░░░░░░░░░░░░░░  11.23 %
+Unknown Project          2 hrs 16 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   9.56 %
+PlayGyeongju             1 hr 56 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   8.14 %
 ```
 
 <!--END_SECTION:waka_projects-->
