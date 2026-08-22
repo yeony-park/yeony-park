@@ -14,11 +14,11 @@ I spent **2.7 years developing bioinformatics platforms**, working at the inters
 <!--START_SECTION:waka_languages-->
 
 ```txt
-Markdown                 2 hrs 29 mins     █████████░░░░░░░░░░░░░░░░  36.70 %
-TypeScript               1 hr 7 mins       ████░░░░░░░░░░░░░░░░░░░░░  16.42 %
-JSON                     35 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   8.75 %
-JavaScript               35 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   8.65 %
-HTML                     28 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   6.86 %
+Markdown                 2 hrs 40 mins     ███████████░░░░░░░░░░░░░░  42.27 %
+TypeScript               1 hr 7 mins       ████░░░░░░░░░░░░░░░░░░░░░  17.70 %
+JavaScript               35 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   9.32 %
+HTML                     28 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   7.39 %
+CSS                      23 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   6.28 %
 ```
 
 <!--END_SECTION:waka_languages-->
@@ -29,11 +29,11 @@ HTML                     28 mins           ██░░░░░░░░░░�
 <!--START_SECTION:waka_projects-->
 
 ```txt
-bookface                 2 hrs 33 mins     █████████░░░░░░░░░░░░░░░░  37.34 %
-finance-ai-challenge-202 1 hr 53 mins      ███████░░░░░░░░░░░░░░░░░░  27.68 %
-PickCardU                54 mins           ███░░░░░░░░░░░░░░░░░░░░░░  13.30 %
-PlayGyeongju             32 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   7.84 %
-paws-on-codex            24 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   6.01 %
+bookface                 2 hrs 25 mins     ██████████░░░░░░░░░░░░░░░  38.25 %
+finance-ai-challenge-202 1 hr 53 mins      ███████░░░░░░░░░░░░░░░░░░  29.81 %
+PickCardU                54 mins           ████░░░░░░░░░░░░░░░░░░░░░  14.32 %
+paws-on-codex            24 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   6.47 %
+Exit404                  18 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   4.90 %
 ```
 
 <!--END_SECTION:waka_projects-->
