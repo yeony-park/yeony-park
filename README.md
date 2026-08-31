@@ -14,11 +14,11 @@ I spent **2.7 years developing bioinformatics platforms**, working at the inters
 <!--START_SECTION:waka_languages-->
 
 ```txt
-CSS                      7 hrs 22 mins     ██████████████░░░░░░░░░░░  55.17 %
-TypeScript               3 hrs 22 mins     ██████░░░░░░░░░░░░░░░░░░░  25.30 %
-Markdown                 2 hrs 25 mins     █████░░░░░░░░░░░░░░░░░░░░  18.12 %
-Bash                     3 mins            ░░░░░░░░░░░░░░░░░░░░░░░░░   0.40 %
-JSON                     2 mins            ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32 %
+CSS                      9 hrs 23 mins     █████████████░░░░░░░░░░░░  52.04 %
+TypeScript               6 hrs             ████████░░░░░░░░░░░░░░░░░  33.28 %
+Markdown                 1 hr 15 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   7.02 %
+Python                   33 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   3.06 %
+JSON                     21 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   2.02 %
 ```
 
 <!--END_SECTION:waka_languages-->
@@ -29,11 +29,11 @@ JSON                     2 mins            ░░░░░░░░░░░░�
 <!--START_SECTION:waka_projects-->
 
 ```txt
-finance-ai-challenge-202 9 hrs 24 mins     ██████████████████░░░░░░░  70.47 %
-bookface                 3 hrs 53 mins     ███████░░░░░░░░░░░░░░░░░░  29.14 %
-hatch-pet-users-yondori- 2 mins            ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27 %
-paws-on-codex            0 secs            ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08 %
-Unknown Project          0 secs            ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05 %
+finance-ai-challenge-202 14 hrs 37 mins    ████████████████████░░░░░  81.08 %
+PickCardU                1 hr 39 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   9.16 %
+bookface                 1 hr 19 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   7.38 %
+frontend                 17 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58 %
+gitropolis-ai            8 mins            ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78 %
 ```
 
 <!--END_SECTION:waka_projects-->
