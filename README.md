@@ -14,11 +14,11 @@ I spent **2.7 years developing bioinformatics platforms**, working at the inters
 <!--START_SECTION:waka_languages-->
 
 ```txt
-TypeScript               6 hrs 15 mins     ██████████░░░░░░░░░░░░░░░  39.81 %
-CSS                      4 hrs 44 mins     ████████░░░░░░░░░░░░░░░░░  30.11 %
-Python                   2 hrs 3 mins      ███░░░░░░░░░░░░░░░░░░░░░░  13.06 %
-Markdown                 1 hr 40 mins      ███░░░░░░░░░░░░░░░░░░░░░░  10.63 %
-JSON                     23 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   2.45 %
+TypeScript               7 hrs 43 mins     ███████████░░░░░░░░░░░░░░  42.58 %
+CSS                      3 hrs 49 mins     █████░░░░░░░░░░░░░░░░░░░░  21.11 %
+JavaScript               2 hrs 22 mins     ███░░░░░░░░░░░░░░░░░░░░░░  13.14 %
+Python                   2 hrs 1 min       ███░░░░░░░░░░░░░░░░░░░░░░  11.15 %
+Markdown                 1 hr 26 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   7.97 %
 ```
 
 <!--END_SECTION:waka_languages-->
@@ -29,11 +29,11 @@ JSON                     23 mins           █░░░░░░░░░░░�
 <!--START_SECTION:waka_projects-->
 
 ```txt
-finance-ai-challenge-202 11 hrs 51 mins    ███████████████████░░░░░░  75.41 %
-PickCardU                1 hr 44 mins      ███░░░░░░░░░░░░░░░░░░░░░░  11.06 %
-research-skill           56 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   6.00 %
-Unknown Project          27 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   2.91 %
-frontend                 17 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   1.81 %
+finance-ai-challenge-202 13 hrs 20 mins    ██████████████████░░░░░░░  73.58 %
+tourism-data-2026        2 hrs 30 mins     ███░░░░░░░░░░░░░░░░░░░░░░  13.82 %
+research-skill           56 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   5.20 %
+Unknown Project          27 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   2.52 %
+PlayGyeongju             21 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   2.02 %
 ```
 
 <!--END_SECTION:waka_projects-->
