@@ -14,11 +14,11 @@ I spent **2.7 years developing bioinformatics platforms**, working at the inters
 <!--START_SECTION:waka_languages-->
 
 ```txt
-TypeScript               7 hrs 43 mins     ███████████░░░░░░░░░░░░░░  42.58 %
-CSS                      3 hrs 49 mins     █████░░░░░░░░░░░░░░░░░░░░  21.11 %
-JavaScript               2 hrs 22 mins     ███░░░░░░░░░░░░░░░░░░░░░░  13.14 %
-Python                   2 hrs 1 min       ███░░░░░░░░░░░░░░░░░░░░░░  11.15 %
-Markdown                 1 hr 26 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   7.97 %
+TypeScript               12 hrs 37 mins    █████████████░░░░░░░░░░░░  50.34 %
+CSS                      4 hrs 5 mins      ████░░░░░░░░░░░░░░░░░░░░░  16.32 %
+Python                   3 hrs 21 mins     ███░░░░░░░░░░░░░░░░░░░░░░  13.36 %
+JavaScript               2 hrs 40 mins     ███░░░░░░░░░░░░░░░░░░░░░░  10.66 %
+Markdown                 1 hr 12 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   4.83 %
 ```
 
 <!--END_SECTION:waka_languages-->
@@ -29,11 +29,11 @@ Markdown                 1 hr 26 mins      ██░░░░░░░░░░�
 <!--START_SECTION:waka_projects-->
 
 ```txt
-finance-ai-challenge-202 13 hrs 20 mins    ██████████████████░░░░░░░  73.58 %
-tourism-data-2026        2 hrs 30 mins     ███░░░░░░░░░░░░░░░░░░░░░░  13.82 %
-research-skill           56 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   5.20 %
-Unknown Project          27 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   2.52 %
-PlayGyeongju             21 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   2.02 %
+finance-ai-challenge-202 17 hrs 57 mins    ██████████████████░░░░░░░  71.58 %
+research-skill           3 hrs 2 mins      ███░░░░░░░░░░░░░░░░░░░░░░  12.15 %
+tourism-data-2026        2 hrs 58 mins     ███░░░░░░░░░░░░░░░░░░░░░░  11.84 %
+PlayGyeongju             38 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   2.56 %
+gitropolis-ai            14 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99 %
 ```
 
 <!--END_SECTION:waka_projects-->
