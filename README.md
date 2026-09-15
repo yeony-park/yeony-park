@@ -14,9 +14,7 @@ I spent **2.7 years developing bioinformatics platforms**, working at the inters
 <!--START_SECTION:waka_languages-->
 
 ```txt
-Other                    28 mins           █████████████░░░░░░░░░░░░  53.30 %
-JSON                     22 mins           ██████████░░░░░░░░░░░░░░░  41.42 %
-Markdown                 2 mins            █░░░░░░░░░░░░░░░░░░░░░░░░   5.27 %
+Other                    28 mins           █████████████████████████ 100.00 %
 ```
 
 <!--END_SECTION:waka_languages-->
@@ -27,11 +25,10 @@ Markdown                 2 mins            █░░░░░░░░░░░�
 <!--START_SECTION:waka_projects-->
 
 ```txt
-seorap                   18 mins           ████████░░░░░░░░░░░░░░░░░  33.95 %
-PlayGyeongju             16 mins           ████████░░░░░░░░░░░░░░░░░  30.85 %
-finance-ai-challenge-202 8 mins            ████░░░░░░░░░░░░░░░░░░░░░  15.85 %
-bookface                 4 mins            ██░░░░░░░░░░░░░░░░░░░░░░░   9.23 %
-new-chat                 4 mins            ██░░░░░░░░░░░░░░░░░░░░░░░   7.69 %
+seorap                   18 mins           ████████████████░░░░░░░░░  63.69 %
+bookface                 4 mins            ████░░░░░░░░░░░░░░░░░░░░░  17.32 %
+new-chat                 4 mins            ████░░░░░░░░░░░░░░░░░░░░░  14.42 %
+stock-research-harness   1 min             █░░░░░░░░░░░░░░░░░░░░░░░░   4.56 %
 ```
 
 <!--END_SECTION:waka_projects-->
