@@ -104,7 +104,7 @@ seorap                   18 mins           ███████████░�
 
 [HeatGuard](https://github.com/yeony-park/HeatGuard) — A reproducible data analysis skill for identifying regions that need priority heatwave-response review.
 
-🏁 **Finalist — In Progress** | **2026 제1회 KODATA X BDAI AI·데이터 활용 금융 아이디어 공모전**
+🥈 **2nd Place** | **2026 제1회 KODATA X BDAI AI·데이터 활용 금융 아이디어 공모전**
 
 [Official competition page](https://bdai.co.kr/lectures/contest/9/?section=notice&tab=overview)
 
