@@ -87,6 +87,8 @@ gitropolis-ai            11 mins           █░░░░░░░░░░░�
 
 ## 💼 Experience
 
+**GenON AI Engineer Internship | 2026.09~ (ing)**
+
 **SK Networks AI Bootcamp | 25th Cohort | 2025.12–2026.06 (6 months)**
 
 - Building LLM- and RAG-based applications, data analysis agents, and recommendation systems
