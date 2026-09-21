@@ -14,11 +14,11 @@ I spent **2.7 years developing bioinformatics platforms**, working at the inters
 <!--START_SECTION:waka_languages-->
 
 ```txt
-TypeScript               2 hrs 11 mins     ████████████░░░░░░░░░░░░░  47.21 %
-Other                    48 mins           ████░░░░░░░░░░░░░░░░░░░░░  17.26 %
-Markdown                 44 mins           ████░░░░░░░░░░░░░░░░░░░░░  16.08 %
-Git Config               21 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   7.70 %
-Python                   20 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   7.35 %
+Other                    4 hrs 22 mins     █████████░░░░░░░░░░░░░░░░  35.18 %
+TypeScript               3 hrs 6 mins      ██████░░░░░░░░░░░░░░░░░░░  24.89 %
+Markdown                 1 hr 46 mins      ████░░░░░░░░░░░░░░░░░░░░░  14.28 %
+JavaScript               1 hr 3 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.56 %
+Python                   48 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   6.50 %
 ```
 
 <!--END_SECTION:waka_languages-->
@@ -29,11 +29,11 @@ Python                   20 mins           ██░░░░░░░░░░�
 <!--START_SECTION:waka_projects-->
 
 ```txt
-seorap                   2 hrs 37 mins     ██████████████░░░░░░░░░░░  56.23 %
-Yontology                56 mins           █████░░░░░░░░░░░░░░░░░░░░  20.21 %
-Unknown Project          22 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   7.95 %
-tourism-data-2026        12 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   4.31 %
-gitropolis-ai            11 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   4.16 %
+seorap                   4 hrs 2 mins      ████████░░░░░░░░░░░░░░░░░  32.41 %
+PlayGyeongju             3 hrs 54 mins     ████████░░░░░░░░░░░░░░░░░  31.37 %
+tourism-data-2026        2 hrs 28 mins     █████░░░░░░░░░░░░░░░░░░░░  19.83 %
+Yontology                1 hr 7 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.98 %
+new-chat                 18 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   2.48 %
 ```
 
 <!--END_SECTION:waka_projects-->
