@@ -14,9 +14,7 @@ I spent **2.7 years developing bioinformatics platforms**, working at the inters
 <!--START_SECTION:waka_languages-->
 
 ```txt
-TypeScript               15 mins           ███████████████░░░░░░░░░░  58.42 %
-Other                    7 mins            ███████░░░░░░░░░░░░░░░░░░  27.40 %
-Bash                     3 mins            ████░░░░░░░░░░░░░░░░░░░░░  14.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka_languages-->
@@ -27,9 +25,7 @@ Bash                     3 mins            ████░░░░░░░░�
 <!--START_SECTION:waka_projects-->
 
 ```txt
-seorap                   15 mins           ███████████████░░░░░░░░░░  58.42 %
-PlayGyeongju             7 mins            ███████░░░░░░░░░░░░░░░░░░  27.40 %
-tourism-data-2026        3 mins            ████░░░░░░░░░░░░░░░░░░░░░  14.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka_projects-->
