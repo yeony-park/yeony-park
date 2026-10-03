@@ -14,7 +14,10 @@ I spent **2.7 years developing bioinformatics platforms**, working at the inters
 <!--START_SECTION:waka_languages-->
 
 ```txt
-No activity tracked
+Other                    4 hrs 4 mins      ██████████████████░░░░░░░  71.78 %
+Python                   1 hr 2 mins       █████░░░░░░░░░░░░░░░░░░░░  18.49 %
+TypeScript               30 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   9.07 %
+Markdown                 2 mins            ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66 %
 ```
 
 <!--END_SECTION:waka_languages-->
@@ -25,7 +28,11 @@ No activity tracked
 <!--START_SECTION:waka_projects-->
 
 ```txt
-No activity tracked
+Yontology                3 hrs 1 min       █████████████░░░░░░░░░░░░  53.28 %
+bookface                 1 hr 30 mins      ███████░░░░░░░░░░░░░░░░░░  26.47 %
+PickCardU                34 mins           ███░░░░░░░░░░░░░░░░░░░░░░  10.27 %
+rag-lab                  31 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   9.37 %
+pr-2-fix                 2 mins            ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61 %
 ```
 
 <!--END_SECTION:waka_projects-->
