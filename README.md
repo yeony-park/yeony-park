@@ -14,8 +14,8 @@ I spent **2.7 years developing bioinformatics platforms**, working at the inters
 <!--START_SECTION:waka_languages-->
 
 ```txt
-Python                   33 mins           █████████████████████░░░░  83.15 %
-Other                    6 mins            ████░░░░░░░░░░░░░░░░░░░░░  16.85 %
+Other                    6 mins            █████████████░░░░░░░░░░░░  52.21 %
+Python                   5 mins            ████████████░░░░░░░░░░░░░  47.79 %
 ```
 
 <!--END_SECTION:waka_languages-->
@@ -26,7 +26,7 @@ Other                    6 mins            ████░░░░░░░░�
 <!--START_SECTION:waka_projects-->
 
 ```txt
-bookface                 40 mins           █████████████████████████ 100.00 %
+bookface                 12 mins           █████████████████████████ 100.00 %
 ```
 
 <!--END_SECTION:waka_projects-->
