@@ -1,13 +1,10 @@
 # 🙌 About Me
 
-Hi, I'm **Yeonjeong Park**, an AI engineer building reliable systems from data to production.
+Hi, I'm **Yeonjeong Park**, an **AI Engineer** turning ideas into practical services with LLMs and AI agents.
 
-I spent **2.7 years developing bioinformatics platforms**, working at the intersection of scientific data, software, and reproducible workflows. Today, I build AI applications with **LLMs, RAG, data pipelines, and backend systems**, turning experimental ideas into testable and maintainable products.
-
-- 🎓 M.S. in Molecular & Cell Biology, Yonsei University
+- 💼 AI Engineer Intern at GenON
 - 🔬 Former Bioinformatics Platform Developer
-- 🤖 Currently focused on AI agents, RAG, data engineering, and reliable AI systems
-- 🌱 Interested in evaluation, traceability, and production-minded AI development
+- 🎓 M.S. in Molecular & Cell Biology, Yonsei University
 
 ## 📊 This Week I Spent My Time On
 
@@ -80,21 +77,37 @@ bookface                 12 mins           ████████████�
 
 ## 💼 Experience
 
-**GenON AI Engineer Internship | 2026.09~ (ing)**
+<details>
+<summary><strong>GenON · AI Engineer Intern | 2026.09–Present</strong></summary>
 
-**SK Networks AI Bootcamp | 25th Cohort | 2025.12–2026.06 (6 months)**
+- Currently working as an AI Engineer Intern
 
-- Building LLM- and RAG-based applications, data analysis agents, and recommendation systems
-- Designing reproducible data pipelines with explicit validation, provenance, and failure handling
-- Developing full-stack prototypes that connect AI workflows with practical user experiences
+</details>
 
-**Bioinformatics Platform Development | 2023.05–2025.11 (2.7 years)**
+<details>
+<summary><strong>SK Networks · AI Bootcamp, 25th Cohort | 2025.12–2026.06</strong></summary>
+
+- Built LLM- and RAG-based applications, data analysis agents, and recommendation systems
+- Designed reproducible data pipelines with explicit validation, provenance, and failure handling
+- Developed full-stack prototypes that connected AI workflows with practical user experiences
+
+</details>
+
+<details>
+<summary><strong>Bioinformatics Platform Development | 2023.05–2025.11</strong></summary>
 
 - Developed and maintained data-centric platforms for scientific workflows
 - Worked with domain experts to translate research requirements into dependable software
 - Built a strong foundation in data integrity, reproducibility, and operational stability
 
-**Bio Data Engineer Intern | 2020.12–2021.03**
+</details>
+
+<details>
+<summary><strong>Bio Data Engineer Intern | 2020.12–2021.03</strong></summary>
+
+- Completed an internship in bio data engineering
+
+</details>
 
 ## 🏆 Awards
 
@@ -116,11 +129,13 @@ bookface                 12 mins           ████████████�
 <details>
 <summary><strong>View certifications</strong></summary>
 
+- **Engineer Information Processing** (2026)
+- **Programmers Certified Coding Professional — PCCP, Level 2** (2026)
+- **Programmers Certified Coding Essential — PCCE, Level 4** (2026)
 - **Engineer Big Data Analysis** (2025)
 - **SQL Developer — SQLD** (2025)
 - **Data Architecture Semi-Professional — DAsP** (2025)
 - **Advanced Data Analytics Semi-Professional — ADsP** (2024)
-- **Programmers Certified Coding Professional — PCCP, Level 2** (2026)
 
 </details>
 
