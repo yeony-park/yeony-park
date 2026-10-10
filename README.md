@@ -11,7 +11,7 @@ Hi, I'm **Yeonjeong Park**, an **AI Engineer** turning ideas into practical serv
 <!--START_SECTION:waka_languages-->
 
 ```txt
-Other                    6 mins            █████████████████████████ 100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka_languages-->
@@ -22,7 +22,7 @@ Other                    6 mins            ████████████�
 <!--START_SECTION:waka_projects-->
 
 ```txt
-bookface                 6 mins            █████████████████████████ 100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka_projects-->
