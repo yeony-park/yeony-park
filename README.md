@@ -11,10 +11,9 @@ Hi, I'm **Yeonjeong Park**, an **AI Engineer** turning ideas into practical serv
 <!--START_SECTION:waka_languages-->
 
 ```txt
-TypeScript               17 mins           ████████░░░░░░░░░░░░░░░░░  30.37 %
-Python                   17 mins           ███████░░░░░░░░░░░░░░░░░░  29.63 %
-JavaScript               13 mins           ██████░░░░░░░░░░░░░░░░░░░  23.53 %
-Other                    9 mins            ████░░░░░░░░░░░░░░░░░░░░░  16.47 %
+TypeScript               17 mins           ███████████░░░░░░░░░░░░░░  43.24 %
+Python                   17 mins           ███████████░░░░░░░░░░░░░░  42.20 %
+Other                    5 mins            ████░░░░░░░░░░░░░░░░░░░░░  14.56 %
 ```
 
 <!--END_SECTION:waka_languages-->
@@ -25,9 +24,8 @@ Other                    9 mins            ████░░░░░░░░�
 <!--START_SECTION:waka_projects-->
 
 ```txt
-bookface                 43 mins           ██████████████████░░░░░░░  73.72 %
-new-chat                 13 mins           ██████░░░░░░░░░░░░░░░░░░░  23.53 %
-Unknown Project          1 min             █░░░░░░░░░░░░░░░░░░░░░░░░   2.76 %
+bookface                 39 mins           ████████████████████████░  96.07 %
+Unknown Project          1 min             █░░░░░░░░░░░░░░░░░░░░░░░░   3.93 %
 ```
 
 <!--END_SECTION:waka_projects-->
