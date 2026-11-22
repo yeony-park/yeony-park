@@ -11,7 +11,11 @@ Hi, I'm **Yeonjeong Park**, an **AI Engineer** turning ideas into practical serv
 <!--START_SECTION:waka_languages-->
 
 ```txt
-Other                    0 secs            █████████████████████████ 100.00 %
+Other                    1 hr 18 mins      █████████░░░░░░░░░░░░░░░░  34.16 %
+Markdown                 1 hr 14 mins      ████████░░░░░░░░░░░░░░░░░  32.55 %
+Python                   1 hr 7 mins       ███████░░░░░░░░░░░░░░░░░░  29.57 %
+JSON                     5 mins            █░░░░░░░░░░░░░░░░░░░░░░░░   2.26 %
+SQL                      2 mins            ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88 %
 ```
 
 <!--END_SECTION:waka_languages-->
@@ -22,7 +26,10 @@ Other                    0 secs            ████████████�
 <!--START_SECTION:waka_projects-->
 
 ```txt
-bookface                 0 secs            █████████████████████████ 100.00 %
+somoim-poc               1 hr 44 mins      ███████████░░░░░░░░░░░░░░  45.74 %
+referenced-chatgpt-conve 1 hr 31 mins      ██████████░░░░░░░░░░░░░░░  39.87 %
+bookface                 19 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   8.47 %
+Unknown Project          13 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   5.92 %
 ```
 
 <!--END_SECTION:waka_projects-->
