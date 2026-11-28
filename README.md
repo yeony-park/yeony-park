@@ -11,11 +11,11 @@ Hi, I'm **Yeonjeong Park**, an **AI Engineer** turning ideas into practical serv
 <!--START_SECTION:waka_languages-->
 
 ```txt
-Markdown                 17 hrs 6 mins     █████████████░░░░░░░░░░░░  52.27 %
-Python                   6 hrs 36 mins     █████░░░░░░░░░░░░░░░░░░░░  20.21 %
-Other                    5 hrs 34 mins     ████░░░░░░░░░░░░░░░░░░░░░  17.02 %
-Text                     1 hr 31 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   4.68 %
-JavaScript               1 hr 4 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   3.31 %
+Markdown                 22 hrs 5 mins     ██████████████░░░░░░░░░░░  56.23 %
+Python                   7 hrs 39 mins     █████░░░░░░░░░░░░░░░░░░░░  19.52 %
+Other                    6 hrs 1 min       ████░░░░░░░░░░░░░░░░░░░░░  15.34 %
+Text                     1 hr 34 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   4.01 %
+JavaScript               1 hr 4 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   2.76 %
 ```
 
 <!--END_SECTION:waka_languages-->
@@ -26,11 +26,11 @@ JavaScript               1 hr 4 mins       █░░░░░░░░░░░�
 <!--START_SECTION:waka_projects-->
 
 ```txt
-Obsidian                 21 hrs 54 mins    █████████████████░░░░░░░░  66.94 %
-jodal-quest              2 hrs 56 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   8.98 %
-refer_agent              2 hrs 52 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   8.77 %
-referenced-chatgpt-conve 1 hr 31 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   4.65 %
-toy_sdk                  1 hr 10 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   3.61 %
+Obsidian                 26 hrs 23 mins    █████████████████░░░░░░░░  67.18 %
+refer_agent              3 hrs 6 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   7.89 %
+jodal-quest              2 hrs 56 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   7.48 %
+toy_sdk                  1 hr 56 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   4.96 %
+referenced-chatgpt-conve 1 hr 31 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   3.87 %
 ```
 
 <!--END_SECTION:waka_projects-->
